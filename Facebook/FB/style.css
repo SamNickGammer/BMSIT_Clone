@@ -1,0 +1,53 @@
+section {
+  background-color: rgb(224, 255, 245);
+}
+.startfb {
+  display: flex;
+}
+.left-container {
+  flex: 1 0 0px;
+}
+.right-container {
+  float: right;
+}
+.fblogo {
+  height: 80px;
+  margin: -10px;
+}
+div {
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.recentlogin {
+  margin-left: 15px;
+  font-size: 20px;
+}
+.picaccount {
+  margin-left: 15px;
+  font-size: 15px;
+  color: #606770;
+  line-height: 24px;
+  margin-bottom: 12px;
+}
+.loginhistory {
+  display: flex;
+}
+.imageperson {
+  height: 180px;
+  width: 150px;
+  margin: 20px;
+  border-color: beige;
+  border-radius: 10px;
+}
+.imageone {
+  margin: -10px;
+}
+.shadowperson:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.emailid {
+  font-size: 17px;
+  width: 364px;
+  margin: auto;
+  padding: 6px 0;
+}

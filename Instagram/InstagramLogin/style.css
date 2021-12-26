@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.phoneimage {
+  padding-top: 70px;
+  height: 550px;
+  /* float: left; */
+  margin: 10px;
+}
+body {
+  background-color: white;
+}
+.container {
+  margin-top: 20px;
+}
+.instagramlogo {
+  width: 180px;
+}
+.right-colum {
+  background-color: rgb(255, 255, 255);
+  border: 1px solid rgb(243, 241, 241);
+  width: 350px;
+  margin: 10px;
+  padding: 40px;
+}
